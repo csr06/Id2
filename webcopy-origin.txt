@@ -1,0 +1,164 @@
+Uri: http://business.mcok.kr/257r7aiZixg98P669sv5
+File Name: C:\Downloaded Web Sites\business.mcok.kr\257r7aiZixg98P669sv5.html
+Content Type: text/html
+
+Uri: http://business.mcok.kr/static/css/font_SJSejongGothic.css
+File Name: C:\Downloaded Web Sites\business.mcok.kr\static\css\font_SJSejongGothic.css
+Content Type: text/css
+
+Uri: http://business.mcok.kr/static/css/icon.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\static\css\icon.png
+Content Type: image/png
+
+Uri: http://business.mcok.kr/static/css/main.css
+File Name: C:\Downloaded Web Sites\business.mcok.kr\static\css\main.css
+Content Type: text/css
+
+Uri: http://business.mcok.kr/static/css/mobile_icon.ico
+File Name: C:\Downloaded Web Sites\business.mcok.kr\static\css\mobile_icon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/css/default.css?ver=161120
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\css\default.css
+Content Type: text/css
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/button-2-buyicon.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\button-2-buyicon.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/content-textlist-1-icon.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\content-textlist-1-icon.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/footer-sejong-package-bg.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\footer-sejong-package-bg.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/footer-sejong-package-button1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\footer-sejong-package-button1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/footer-sejong-package-button2.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\footer-sejong-package-button2.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/footer-sejong-package-content.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\footer-sejong-package-content.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/help-icon.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\help-icon.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/all/title-1-icon.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\all\title-1-icon.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/company/bizarea-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\company\bizarea-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/company/intro-1-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\company\intro-1-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/content-container-title-line.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\content-container-title-line.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/js-footer-nav-line.gif
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\js-footer-nav-line.gif
+Content Type: image/gif
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/js-gnb-snb-bg.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\js-gnb-snb-bg.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/main-solution-bg.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\main-solution-bg.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/main-solution-image.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\main-solution-image.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/main-visual-bg.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\main-visual-bg.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/driger-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\driger-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/hanime-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\hanime-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/hanime-2-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\hanime-2-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/hanime-3.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\hanime-3.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/ime-complete-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\ime-complete-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/ime-engine.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\ime-engine.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/ime-input-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\ime-input-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/ime-intro-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\ime-intro-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/mrmygle-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\mrmygle-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/mrmygle-2.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\mrmygle-2.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/multicode-feature.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\multicode-feature.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/multicode-intro.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\multicode-intro.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/unishape-1-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\unishape-1-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/unitype-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\unitype-1.png
+Content Type: image/png
+
+Uri: http://www.junglesystem.com/theme/junglesystem_2017/img/solution/unitype-2-1.png
+File Name: C:\Downloaded Web Sites\business.mcok.kr\theme\junglesystem_2017\img\solution\unitype-2-1.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/1213520159667396639/1213521078396391515/1690274449886.png?ex=65f5c693&is=65e35193&hm=a1ac804b93bbbb936d83f0ec1b3a4c3d6dae65a7d58a5a59cc96518193fb85de&
+File Name: C:\Downloaded Web Sites\business.mcok.kr\attachments\1213520159667396639\1213521078396391515\1690274449886.png
+Content Type: image/png
+
+Uri: https://chart.apis.google.com/chart?cht=qr&chs=300x300&chl=IDM3aSeEY5EhFP4sDbWiM%3D2BBi1XA8vXmAQBKHgHhFP4sDbWiM%3D
+File Name: C:\Downloaded Web Sites\business.mcok.kr\chart
+Content Type: image/png
+
+Uri: https://code.jquery.com/jquery-3.4.1.js
+File Name: C:\Downloaded Web Sites\business.mcok.kr\jquery-3.4.1.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.slim.js
+File Name: C:\Downloaded Web Sites\business.mcok.kr\jquery-3.6.0.slim.js
+Content Type: application/javascript
+
